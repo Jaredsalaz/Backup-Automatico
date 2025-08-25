@@ -1,0 +1,45 @@
+# Build outputs
+bin/
+obj/
+out/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.sln.docstates
+
+# Rider
+.idea/
+
+# User-specific files
+*.log
+*.tmp
+*.temp
+
+# Configuration files with sensitive data (if any)
+appsettings.local.json
+config.local.json
+
+# Windows thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin
+$RECYCLE.BIN/
+
+# Package files
+*.nupkg
+*.snupkg
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+
+# Application specific
+*.exe.config
+App.config.user
